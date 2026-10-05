@@ -4,15 +4,20 @@
 
 - Open notes: bring as much printed material as you want
 - Closed computers / phones / everything else
-- Should take only 30-40 minutes
 - Liberal partial credit applied - if unsure, explain your reasoning (even for multiple-choice questions)
 
 # Topics
+
+## Parallel Composition
+
+- Definition / theorem
+- Histograms and their sensitivity
 
 ## (ε, δ)-Differential Privacy
 
 - Definition
 - Gaussian mechanism
+- L1 / L2 sensitivity of vector-valued functions
 - Advanced composition
 - Advantages and disadvantages (e.g. failure probability)
 
