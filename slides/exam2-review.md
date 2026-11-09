@@ -1,9 +1,12 @@
 # Exam 2 Topic List (Fall 2026)
 
+[Click here for the practice exam](exam2_practice.pdf)
+
 # Format
 
 - Open notes: bring as much printed material as you want
 - Closed computers / phones / everything else
+- If you successfully completed the homework assignments, the questions should be easy
 - Liberal partial credit applied - if unsure, explain your reasoning (even for multiple-choice questions)
 
 # Topics
@@ -42,14 +45,6 @@
   - What is the format of a linear model
   - How to bound the sensitivity of the gradient (clipping the gradient's L2 norm)
   - Composition issues and best privacy variants
-
-## Local Differential Privacy
-
-- Tradeoffs of local differential privacy
-  - Huge benefit: threat model
-  - Huge drawback: accuracy
-- Randomized response
-- Unary encoding
 
 ## Units of Privacy
 
